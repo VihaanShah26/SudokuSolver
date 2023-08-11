@@ -1,7 +1,7 @@
 # Constraint Satisfaction 
 
 ## Goal - Design a software to solve a sudoku problem 
-Rules for sudoku - [https://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku/rules](url)
+Rules for sudoku - https://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku/rules
 
 ## Program 
 The program receives a two dimensional array of size 9x9 which represents the 9x9 sudoku board. Empty spots on the board are represented by 0's and other spots are represented by their respective numbers from 1-9. 
